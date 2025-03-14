@@ -1,13 +1,13 @@
 # RL-GPT: Integrating Reinforcement Learning and Code-as-policy
 
 <a href='https://sites.google.com/view/rl-gpt'><img src='https://img.shields.io/badge/Project-Page-Green'></a>
-<a href='https://arxiv.org/abs/2311.17043'><img src='https://img.shields.io/badge/Paper-Arxiv-red'></a>
-<a href='https://arxiv.org/abs/2311.17043'><img src='https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Models-blue'></a>
+<a href='https://arxiv.org/abs/2402.19299'><img src='https://img.shields.io/badge/Paper-Arxiv-red'></a>
+<a href='https://arxiv.org/abs/2402.19299'><img src='https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Models-blue'></a>
 
 **Combine LLMs and RL**: The LLM reasons about the agent's behavior to solve subtasks and generates higher-level actions, improving RL's sample efficiency.
 
-<!-- <div align=center> -->
-<div align=left>
+<div align=center>
+<!-- <div align=left> -->
 <img width="60%" src="fig/idea.png"/>
 </div>
 
@@ -54,7 +54,8 @@
 
 - **Draw training curves:** find the training log file progress.txt in data/, move `vis.py` into its directory and run.
 
-<div align=left>
+<div align=center>
+<!-- <div align=left> -->
 <img width="60%" src="fig/ppo_harvest_milk/AverageEpSuccess.png"/>
 </div>
 
