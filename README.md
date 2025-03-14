@@ -8,7 +8,7 @@
 
 <!-- <div align=center> -->
 <div align=left>
-<img width="30%" src="fig/idea.png"/>
+<img width="60%" src="fig/idea.png"/>
 </div>
 
 ## Contents
@@ -55,7 +55,7 @@
 - **Draw training curves:** find the training log file progress.txt in data/, move `vis.py` into its directory and run.
 
 <div align=left>
-<img width="30%" src="fig/ppo_harvest_milk/AverageEpSuccess.png"/>
+<img width="60%" src="fig/ppo_harvest_milk/AverageEpSuccess.png"/>
 </div>
 
 ## Results
@@ -82,3 +82,6 @@
 - A multi-task agent in Minecraft [Plan4MC](https://github.com/PKU-RL/Plan4MC).
 - The first LLM-powered lifelong learning agent in Minecraft [Voyager](https://github.com/MineDojo/Voyager).
 - Many practical prompts and tools. in [DEPS](https://github.com/CraftJarvis/MC-Planner).
+
+## License
+This codebase is under MIT License.
