@@ -1,4 +1,4 @@
-# RL-GPT: Integrating Reinforcement Learning and Code-as-policy
+# RL-GPT open sourced RL training
 
 <a href='https://sites.google.com/view/rl-gpt'><img src='https://img.shields.io/badge/Project-Page-Green'></a>
 <a href='https://arxiv.org/abs/2402.19299'><img src='https://img.shields.io/badge/Paper-Arxiv-red'></a>
@@ -12,6 +12,7 @@
 </div>
 
 ## Contents
+- [TODO](#todo)
 - [Install](#install)
 - [PPO-Training](#ppo-training)
 - [Results](#results)
@@ -19,8 +20,17 @@
 - [Acknowledgement](#acknowledgement)
 - [License](#license)
 
+## TODO
+
+- [x] Open-source RL training framework
+
+- [ ] The temporal abstraction technique (June)
+
+- [ ] More applications (July)
+
 ## Install
 
+- Resource link: https://disk.pku.edu.cn/link/AA93114ADA107A407BA4DE42E4C797446A
 - Install MineDojo environment: the official document is: https://docs.minedojo.org/sections/getting_started/install.html#prerequisites. 
 
 - Follow my steps:
@@ -71,11 +81,11 @@
 
 ## Citation
 ```
-@misc{liu2024rlgptintegratingreinforcementlearning,
-      title={RL-GPT: Integrating Reinforcement Learning and Code-as-policy},
-      author={Shaoteng Liu and Haoqi Yuan and Minda Hu and Yanwei Li and Yukang Chen and Shu Liu and Zongqing Lu and Jiaya Jia},
-      year={2024},
-      url={https://arxiv.org/abs/2402.19299},
+@article{liu2024rlgpt,
+title={{RL-GPT}: Integrating Reinforcement Learning and Code-as-policy}, 
+author={Liu, Shaoteng and Yuan, Haoqi and Hu, Minda and Li, Yanwei and Chen, Yukang and Liu, Shu and Lu, Zongqing and Jia, Jiaya},
+journal={arXiv preprint arXiv:2402.19299}, 
+year={2024},
 }
 ```
 
