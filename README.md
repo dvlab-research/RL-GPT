@@ -30,7 +30,7 @@
 
 ## Install
 
-- Resource link: https://disk.pku.edu.cn/link/AA93114ADA107A407BA4DE42E4C797446A
+- Resource link: https://drive.google.com/file/d/1IdBEGZJh1r4MOn4vMDOZ3CfKn9YAvOzZ/view?usp=sharing
 - Install MineDojo environment: the official document is: https://docs.minedojo.org/sections/getting_started/install.html#prerequisites. 
 
 - Follow my steps:
